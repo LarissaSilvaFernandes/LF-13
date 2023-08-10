@@ -1,7 +1,5 @@
-# <img width="48" height="48" src="https://img.icons8.com/color/48/github-2.png" alt="github-2"/>About Me: 
-Saudações! 👋 Desbravadora do mundo da programação em constante evolução!
-
-
+# <img width="48" height="48" src="https://img.icons8.com/color/48/github-2.png" alt="github-2"/>ABOUT ME: 
+## Saudações! 👋 Desbravadora do mundo da programação em constante evolução!
 
 Seja bem-vindo(a) ao meu cantinho virtual de aprendizado e exploração tecnológica. Sou uma entusiasta em transição de carreira, mergulhando de cabeça no vasto universo da programação. Com uma base cada vez mais sólida em Java<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />, estou trilhando uma jornada de crescimento diário nessa linguagem fascinante.
 
